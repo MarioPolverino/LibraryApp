@@ -1,0 +1,80 @@
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddBookForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddStudentForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.EditBookForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.New_Book_Issue_Form.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.LoginForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.MainForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.Properties.Resources.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReserveBook.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.SearchBookForm.resources
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.GenerateResource.Cache
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe.config
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.pdb
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.exe
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.pdb
+C:\Users\RPhillips\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csprojResolveAssemblyReference.cache
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe.config
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.exe
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.pdb
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csprojResolveAssemblyReference.cache
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddBookForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddStudentForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.EditBookForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.New_Book_Issue_Form.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.LoginForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.MainForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.Properties.Resources.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReserveBook.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.SearchBookForm.resources
+C:\Users\CAbood\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.GenerateResource.Cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe.config
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.exe
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.pdb
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddBookForm.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddStudentForm.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.EditBookForm.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.LoginForm.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.MainForm.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.Properties.Resources.resources
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.GenerateResource.Cache
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe
+C:\Users\chris\OneDrive\Documents\Visual Studio 2015\Projects\LMS_OC\LMS_OC\bin\Debug\LMS_OC.pdb
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddBookForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddStudentForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.EditBookForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.LoginForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.MainForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.Properties.Resources.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.pdb
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe.config
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\bin\Debug\LMS_OC.pdb
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.exe
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.SearchForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.IssueForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReturnForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReserveForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe.config
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\bin\Debug\LMS_OC.exe
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\bin\Debug\LMS_OC.pdb
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddBookForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.AddStudentForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.EditBookForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.IssueForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.LoginForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.MainForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.Properties.Resources.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReserveForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.ReturnForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.SearchForm.resources
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.exe
+C:\Users\mario\Desktop\Programming Open colege\Mod 12\ASS\Part A\LMS_OC\LMS_OC\obj\Debug\LMS_OC.pdb
